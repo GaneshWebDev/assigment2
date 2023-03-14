@@ -35,3 +35,6 @@ body{
     height: 80px;
     width: 300px;
 }
+.about span{
+    color: blue;
+}
