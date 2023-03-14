@@ -1,0 +1,37 @@
+body{
+    margin: 15px;
+}
+.img img{
+    height: 100px;
+    width: 100px;
+}
+.name{
+    color:green;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.interest{
+    color: red;
+}
+.skills{
+    color: darkred;
+}
+.education{
+    color: blue;
+}
+.contact{
+    color: cadetblue;
+}
+.form form{
+    display: flex;
+    flex-direction: column;
+   
+}
+.form button{
+    margin-top: 5px;
+    width: 80px;
+}
+.form textarea{
+    height: 80px;
+    width: 300px;
+}
